@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12D640&height=200&section=header&text=HANGMAN&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Tech%20Innovator&descAlignY=55&descSize=20"/>
 
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%9A%80+Transforming+Ideas+into+Reality;%F0%9F%94%AE+Exploring+the+Future+of+AI" alt="Typing SVG" />
-</a>
 
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
