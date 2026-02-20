@@ -1,7 +1,8 @@
 <div align="center">
   
 <!-- Matrix-style animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12D640&height=200&section=header&text=HANGMAN%20M&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640 |%20Tech%20Innovator&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12D640&height=200&section=header&text=HANGMAN&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Tech%20Innovator&descAlignY=55&descSize=20"/>
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -10,29 +11,6 @@
 
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-</div>
-
----
-
-<div align="center">
-
-### `>> neural_network.activate() 🔮`
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Pavan M"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.language_spoken = ["Kannada", "English", "Hindi", "Tamil"]
-        self.current_focus = ["Deep Learning", "Computer Vision", "NLP", "LLMs"]
-
-    def say_hi(self):
-        print("Welcome to my neural network of projects! 🧠")
-
-me = AIEngineer()
-me.say_hi()
-```
 
 </div>
 
