@@ -84,7 +84,7 @@
 
 <div align="center">
 
-### 💡 "The best way to predict the future is to create it." - Alan Kay
+### 💡 "The best way to predict the future is to create it."
 
 <img src="https://komarev.com/ghpvc/?username=user12bharath&style=for-the-badge&color=12D640"/>
 
